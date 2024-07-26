@@ -47,6 +47,8 @@
         }
     },
     "contact": {
+        "developer": "Programación",
+        "designer": "Diseño",
         "name": "Nombre",
         "mail": "Correo",
         "subject": "Asunto",
