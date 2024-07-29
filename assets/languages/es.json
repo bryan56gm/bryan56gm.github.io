@@ -34,8 +34,8 @@
     "projects": {
         "title": "Proyectos",
         "row1": {
-            "text1": "a",
-            "text2": "b",
+            "text1": "Proyecto para una vibrante empresa de eventos en Barcelona. Con Gulp, Pug, Sass y JS, creamos un sitio dinámico con carrusel de imágenes, formulario interactivo y diseño responsivo, ofreciendo una experiencia visual atractiva y funcional.",
+            "text2": "Proyecto para una empresa de multiservicios en viviendas en Londres. Desarrollado con Gulp, Pug, Sass y JS, el sitio incluye cambio de idioma, pantalla completa y más. Prototipo en Adobe XD para garantizar una experiencia visual.",
             "text3": "c",
             "text4": "d"
         },
