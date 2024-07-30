@@ -33,17 +33,19 @@
     },
     "projects": {
         "title": "Proyectos",
-        "row1": {
-            "text1": "Proyecto para una vibrante empresa de eventos en Barcelona. Con Gulp, Pug, Sass y JS, creamos un sitio dinámico con carrusel de imágenes, formulario interactivo y diseño responsivo, ofreciendo una experiencia visual atractiva y funcional.",
-            "text2": "Proyecto para una empresa de multiservicios en viviendas en Londres. Desarrollado con Gulp, Pug, Sass y JS, el sitio incluye cambio de idioma, pantalla completa y más. Prototipo en Adobe XD para garantizar una experiencia visual.",
-            "text3": "c",
-            "text4": "d"
+        "frontend": {
+            "kreiselEvents": "Proyecto para una vibrante empresa de eventos en Barcelona. Con Gulp, Pug, Sass y JS, creamos un sitio dinámico con carrusel de imágenes, formulario interactivo y diseño responsivo, ofreciendo una experiencia visual atractiva y funcional.",
+            "garcinstal": "Proyecto para una empresa de multiservicios en viviendas en Londres. Desarrollado con Gulp, Pug, Sass y JS, el sitio incluye cambio de idioma, pantalla completa y más. Prototipo en Adobe XD para garantizar una experiencia visual.",
+            "giriga": "Proyecto para un restaurante de comida fusión en Barcelona, desarrollado con Gulp, Pug, Sass y JS. El sitio cuenta con cambio de tema oscuro/claro, proporcionando una experiencia visual adaptable y moderna. Aunque actualmente cerrado, el diseño refleja la esencia innovadora del restaurante.",
+            "riseHorizon": "Proyecto de sitio web para Rise Horizon, desarrollado con Gulp, Pug, Sass y JS. El sitio incluye funciones como carrusel de imágenes, cambio de tema y más, ofreciendo una experiencia de usuario innovadora.",
+            "portfolioDesigner": "Proyecto de portafolio para un diseñador, desarrollado con Gulp, Pug, Sass y JS. El sitio muestra trabajos destacados con efectos visuales avanzados y diseño adaptativo.",
+            "portfolioDeveloper": "Proyecto de portafolio para un desarrollador, implementado con React JS. El sitio incluye una galería de proyectos y una interfaz interactiva."
         },
-        "row2": {
-            "text1": "e",
-            "text2": "f",
-            "text3": "g",
-            "text4": "h"
+        "backend": {
+            "flaskFinance": "Proyecto de aplicación financiera usando Flask. Incluye autenticación de usuarios, manejo de datos financieros y visualización de gráficos.",
+            "birthdays": "Aplicación para la gestión de cumpleaños, desarrollada con tecnologías backend y una base de datos para almacenar la información de los usuarios.",
+            "ajaxRequest": "Proyecto demostrativo de solicitudes AJAX. Implementa la funcionalidad de enviar y recibir datos sin recargar la página, mejorando la experiencia del usuario.",
+            "trivial": "Aplicación de trivia, desarrollada con tecnologías backend. Permite la gestión de preguntas y respuestas, y la visualización de puntuaciones."
         }
     },
     "contact": {
