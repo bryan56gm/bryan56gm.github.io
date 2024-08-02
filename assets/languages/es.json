@@ -3,15 +3,18 @@
         "subtitle": "Desarrollador Web",
         "text": "Desarrollador front-end con amplia experiencia en la creación de interfaces de usuario atractivas y funcionales, utilizando PUG, SCSS, JavaScript y GULP. Mi manejo de React me permite desarrollar aplicaciones dinámicas y eficientes, asegurando una integración fluida entre funcionalidad y diseño."
     },
+
     "description": {
         "title": "¿Quién soy?",
         "text1": "Desarrollador web especializado en front-end, con formación en 'Computer Science for Web Programming'. Mis habilidades autodidactas me han permitido trabajar en diversos proyectos, enfocándome en buenas prácticas de programación, SEO y estructuras escalables.",
         "text2": "Destaco por mi contribución al proyecto 'Garcinstal Multiservices', donde diseñé un prototipo interactivo en Adobe XD, llegando al desarrollo de una página web adaptable con transiciones y efectos visuales avanzados."
     },
+
     "buttons": {
         "text1": "Experiencia",
         "text2": "Aptitudes"
     },
+
     "experience": {
         "title": "Experiencia",
         "duration": "Duración:",
@@ -22,6 +25,7 @@
         "duration3": "Duración: 3 meses - 2023",
         "text3": "Desarrollo completo de la web para Garcinstal Multiservices LTD, una empresa de multiservicios en viviendas. La creación comenzó con un diseño inicial en Adobe XD para prototipos interactivos que guiaron al cliente y el proceso de desarrollo. Implementando a la plataforma web herramientas como GULP, PUG, SCSS y JavaScript, incluyendo la creación de un logotipo distintivo que fortaleció la identidad de la marca."
     },
+
     "skills": {
         "title": "Aptitudes",
         "subtitle1": "Lenguajes de Marcado y Estilos:",
@@ -31,6 +35,7 @@
         "subtitle5": "Control de Versiones y Colaboración:",
         "subtitle6": "Herramientas de Diseño:"
     },
+
     "projects": {
         "title": "Proyectos",
         "frontend": {
@@ -48,6 +53,7 @@
             "trivial": "Aplicación de trivia, desarrollada con tecnologías backend. Permite la gestión de preguntas y respuestas, y la visualización de puntuaciones."
         }
     },
+    
     "contact": {
         "developer": "Programación",
         "designer": "Diseño",
