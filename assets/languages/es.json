@@ -39,18 +39,18 @@
     "projects": {
         "title": "Proyectos",
         "frontend": {
-            "kreiselEvents": "Proyecto para una vibrante empresa de eventos en Barcelona. Con Gulp, Pug, Sass y JS, creamos un sitio dinámico con carrusel de imágenes, formulario interactivo y diseño responsivo, ofreciendo una experiencia visual atractiva y funcional.",
-            "garcinstal": "Proyecto para una empresa de multiservicios en viviendas en Londres. Desarrollado con Gulp, Pug, Sass y JS, el sitio incluye cambio de idioma, pantalla completa y más. Prototipo en Adobe XD para garantizar una experiencia visual.",
-            "giriga": "Proyecto para un restaurante de comida fusión en Barcelona, desarrollado con Gulp, Pug, Sass y JS. El sitio cuenta con cambio de tema oscuro/claro, proporcionando una experiencia visual adaptable y moderna. Aunque actualmente cerrado, el diseño refleja la esencia innovadora del restaurante.",
-            "riseHorizon": "Proyecto de sitio web para Rise Horizon, desarrollado con Gulp, Pug, Sass y JS. El sitio incluye funciones como carrusel de imágenes, cambio de tema y más, ofreciendo una experiencia de usuario innovadora.",
-            "portfolioDesigner": "Proyecto de portafolio para un diseñador, desarrollado con Gulp, Pug, Sass y JS. El sitio muestra trabajos destacados con efectos visuales avanzados y diseño adaptativo.",
-            "portfolioDeveloper": "Proyecto de portafolio para un desarrollador, implementado con React JS. El sitio incluye una galería de proyectos y una interfaz interactiva."
+            "kreiselEvents": "Desarrollo de un sitio web para una vibrante empresa de eventos en Barcelona. Utilizando Gulp, Pug, Sass y JavaScript, se creó una plataforma dinámica que incluye un carrusel de imágenes, un formulario interactivo y un diseño responsive, ofreciendo una experiencia visual atractiva y funcional.",
+            "garcinstal": "Desarrollo de un sitio web para una empresa de multiservicios en viviendas en Londres. Implementado con Gulp, Pug, Sass y JavaScript, el sitio cuenta con funcionalidades como cambio de idioma y pantalla completa. Un prototipo en Adobe XD fue creado para asegurar una experiencia visual coherente y profesional.",
+            "giriga": "Desarrollo de un sitio web para un restaurante de comida fusión en Barcelona, utilizando Gulp, Pug, Sass y JavaScript. El sitio incluye una función de cambio de tema oscuro/claro, proporcionando una experiencia visual adaptable y moderna. A pesar de que el restaurante está actualmente cerrado, el diseño refleja su esencia innovadora y sofisticada.",
+            "riseHorizon": "Desarrollo de un sitio web para Rise Horizon, implementado con Gulp, Pug, Sass y JavaScript. El sitio incluye características como un carrusel de imágenes y la opción de cambiar el tema, ofreciendo una experiencia de usuario innovadora y altamente interactiva.",
+            "portfolioDesigner": "Desarrollo de un portafolio en línea para un diseñador, utilizando Gulp, Pug, Sass y JavaScript. El sitio presenta trabajos destacados con efectos visuales avanzados y un diseño adaptativo, proporcionando una plataforma visualmente impresionante y funcional.",
+            "portfolioDeveloper": "Desarrollo de un portafolio en línea para un desarrollador, implementado con React JS. El sitio incluye una galería de proyectos y una interfaz interactiva, diseñada para resaltar habilidades y logros de manera atractiva y accesible."
         },
         "backend": {
-            "flaskFinance": "Proyecto de aplicación financiera usando Flask. Incluye autenticación de usuarios, manejo de datos financieros y visualización de gráficos.",
-            "birthdays": "Aplicación para la gestión de cumpleaños, desarrollada con tecnologías backend y una base de datos para almacenar la información de los usuarios.",
-            "ajaxRequest": "Proyecto demostrativo de solicitudes AJAX. Implementa la funcionalidad de enviar y recibir datos sin recargar la página, mejorando la experiencia del usuario.",
-            "trivia": "Aplicación de trivia, desarrollada con tecnologías backend. Permite la gestión de preguntas y respuestas, y la visualización de puntuaciones."
+            "flaskFinance": "Desarrollo de una aplicación web para la gestión de un portafolio de acciones utilizando Flask y una base de datos SQLite. La aplicación permite a los usuarios registrarse, iniciar sesión, comprar y vender acciones, y visualizar el historial de transacciones y el estado actual de su portafolio.",
+            "birthdays": "Desarrollo de una aplicación web para almacenar y gestionar cumpleaños, implementada con Flask y una base de datos SQLite. La aplicación facilita a los usuarios la adición, visualización y eliminación de fechas de cumpleaños a través de una interfaz de formulario intuitiva.",
+            "ajaxRequest": "Desarrollo de una aplicación web para la gestión de una lista de superhéroes, utilizando una base de datos MySQL y PHP. La base de datos puede ser creada e importada a través de phpMyAdmin, permitiendo una gestión eficiente de los datos de superhéroes.",
+            "trivia": "Desarrollo de una aplicación de trivia simple utilizando solo HTML, CSS y JavaScript. La aplicación permite a los usuarios responder preguntas y visualizar su puntuación, ofreciendo una experiencia de trivia interactiva y entretenida."
         }
     },
     
