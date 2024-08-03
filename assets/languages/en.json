@@ -45,7 +45,7 @@
             "flaskFinance": "Proyecto de aplicación financiera usando Flask. Incluye autenticación de usuarios, manejo de datos financieros y visualización de gráficos.",
             "birthdays": "Aplicación para la gestión de cumpleaños, desarrollada con tecnologías backend y una base de datos para almacenar la información de los usuarios.",
             "ajaxRequest": "Proyecto demostrativo de solicitudes AJAX. Implementa la funcionalidad de enviar y recibir datos sin recargar la página, mejorando la experiencia del usuario.",
-            "trivial": "Aplicación de trivia, desarrollada con tecnologías backend. Permite la gestión de preguntas y respuestas, y la visualización de puntuaciones."
+            "trivia": "Aplicación de trivia, desarrollada con tecnologías backend. Permite la gestión de preguntas y respuestas, y la visualización de puntuaciones."
         }
     },
     "contact": {
