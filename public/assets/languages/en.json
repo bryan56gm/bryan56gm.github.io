@@ -1,0 +1,66 @@
+{
+    "hero": {
+        "subtitle": "Web Developer",
+        "text": "Front-end developer with extensive experience in creating engaging and functional user interfaces using technologies such as PUG, SCSS, JavaScript, and GULP. Proficient in React, enabling the development of dynamic and efficient applications that achieve a seamless integration of design and functionality. Creating intuitive and visually appealing solutions that enhance the user experience."
+    },
+
+    "description": {
+        "title": "Who Am I?",
+        "text1": "Web developer specializing in front-end, with a background in 'Computer Science for Web Programming'. My self-taught skills have enabled me to work on various projects, focusing on best programming practices, SEO, and scalable structures.",
+        "text2": "I stand out for my contribution to the 'Garcinstal Multiservices' project, where I designed an interactive prototype in Adobe XD, leading to the development of a responsive website with advanced transitions and visual effects."
+    },
+
+    "buttons": {
+        "text1": "Experience",
+        "text2": "Skills"
+    },
+
+    "experience": {
+        "title": "Experience",
+        "duration": "Duration:",
+        "months": "months",
+        "text1": "Creation and development of a dynamic web platform for Kreisel Events, designed to optimize event management. From the initial conceptualization in Adobe XD to the final programming with GULP, PUG, SCSS, and JavaScript, each stage focused on creating an efficient and adaptable tool to facilitate event planning and execution.",
+        "duration2": "Duration: 3 months - 2023",
+        "text2": "Design and development of the website for Giriga Fusion Food, aimed at highlighting its fusion cuisine proposal. Developed with technologies such as GULP, PUG, SCSS, and JavaScript. The result was a digital platform that combined functionality with an exceptional user experience, reflecting the passion and quality of its gastronomic offering.",
+        "duration3": "Duration: 3 months - 2023",
+        "text3": "Complete development of the website for Garcinstal Multiservices LTD, a multi-service housing company. The project began with an initial design in Adobe XD for interactive prototypes that guided both the client and the development process. Implementing web tools like GULP, PUG, SCSS, and JavaScript, including the creation of a distinctive logo that strengthened the brand's identity."
+    },
+
+    "skills": {
+        "title": "Skills",
+        "subtitle1": "Markup and Style Languages:",
+        "subtitle2": "Programming Languages:",
+        "subtitle3": "Web Development Frameworks and Tools:",
+        "subtitle4": "Databases:",
+        "subtitle5": "Version Control and Collaboration:",
+        "subtitle6": "Design Tools:"
+    },
+
+    "projects": {
+        "title": "Projects",
+        "frontend": {
+            "kreiselEvents": "Development of a website for a vibrant events company in Barcelona. Using Gulp, Pug, Sass, and JavaScript, a dynamic platform was created, featuring an image carousel, an interactive form, and a responsive design, offering an attractive and functional visual experience.",
+            "garcinstal": "Development of a website for a multi-service housing company in London. Implemented with Gulp, Pug, Sass, and JavaScript, the site includes features such as language change and fullscreen mode. A prototype in Adobe XD was created to ensure a consistent and professional visual experience.",
+            "giriga": "Development of a website for a fusion food restaurant in Barcelona, using Gulp, Pug, Sass, and JavaScript. The site includes a dark/light theme switch, providing an adaptable and modern visual experience. Although the restaurant is currently closed, the design reflects its innovative and sophisticated essence.",
+            "riseHorizon": "Development of a website for Rise Horizon, implemented with Gulp, Pug, Sass, and JavaScript. The site includes features such as an image carousel and theme switching, offering an innovative and highly interactive user experience.",
+            "portfolioDesigner": "Development of an online portfolio for a designer, utilizing Gulp, Pug, Sass, and JavaScript. The site showcases featured work with advanced visual effects and an adaptive design, providing a visually impressive and functional platform.",
+            "portfolioDeveloper": "Development of an online portfolio for a developer, implemented with React JS. The site includes a project gallery and an interactive interface, designed to highlight skills and achievements in an engaging and accessible manner."
+        },
+        "backend": {
+            "flaskFinance": "Development of a web application for managing a stock portfolio using Flask and an SQLite database. The application allows users to register, log in, buy and sell stocks, and view their transaction history and current portfolio status.",
+            "birthdays": "Development of a web application for storing and managing birthdays, implemented with Flask and an SQLite database. The application enables users to add, view, and delete birthdays through an intuitive form interface.",
+            "ajaxRequest": "Development of a web application for managing a list of superheroes using a MySQL database and PHP. The database can be created and imported via phpMyAdmin, allowing for efficient management of superhero data.",
+            "trivia": "Development of a simple trivia application using only HTML, CSS, and JavaScript. The application allows users to answer questions and view their scores, providing an interactive and entertaining trivia experience."
+        }
+    },
+    
+    "contact": {
+        "developer": "Programming",
+        "designer": "Design",
+        "name": "Name",
+        "mail": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "button": "Send"
+    }
+}

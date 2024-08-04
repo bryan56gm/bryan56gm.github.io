@@ -1,0 +1,66 @@
+{
+    "hero": {
+        "subtitle": "Desarrollador Web",
+        "text": "Desarrollador front-end, con amplia experiencia en la creación de interfaces de usuario atractivas y funcionales, empleando tecnologías como PUG, SCSS, JavaScript y GULP. Experiencia con React que me permite desarrollar aplicaciones dinámicas y eficientes, logrando una integración armoniosa entre diseño y funcionalidad. Creando soluciones intuitivas y visualmente agradables que mejoran la experiencia del usuario."
+    },
+
+    "description": {
+        "title": "¿Quién soy?",
+        "text1": "Desarrollador web especializado en front-end, con formación en 'Computer Science for Web Programming'. Mis habilidades autodidactas me han permitido trabajar en diversos proyectos, enfocándome en buenas prácticas de programación, SEO y estructuras escalables.",
+        "text2": "Destaco por mi contribución al proyecto 'Garcinstal Multiservices', donde diseñé un prototipo interactivo en Adobe XD, llegando al desarrollo de una página web adaptable con transiciones y efectos visuales avanzados."
+    },
+
+    "buttons": {
+        "text1": "Experiencia",
+        "text2": "Aptitudes"
+    },
+
+    "experience": {
+        "title": "Experiencia",
+        "duration": "Duración:",
+        "months": "meses",
+        "text1": "Creación y desarrollo de una plataforma web dinámica para Kreisel Events, diseñada para optimizar la gestión de eventos. Desde la conceptualización inicial en Adobe XD hasta la programación final con GULP, PUG, SCSS y JavaScript, cada etapa se enfocó en crear una herramienta eficiente y adaptable para facilitar la planificación y ejecución de eventos.",
+        "duration2": "Duración: 3 meses - 2023",
+        "text2": "Diseño y desarrollo del sitio web para Giriga Comida Fusión, enfocado en resaltar su propuesta de comida fusión. Desarrollado con tecnologias como GULP, PUG, SCSS y JavaScript. El resultado fue una plataforma digital que combinó funcionalidad con una experiencia de usuario excepcional, reflejando la pasión y la calidad de su oferta gastronómica.",
+        "duration3": "Duración: 3 meses - 2023",
+        "text3": "Desarrollo completo de la web para Garcinstal Multiservices LTD, una empresa de multiservicios en viviendas. La creación comenzó con un diseño inicial en Adobe XD para prototipos interactivos que guiaron al cliente y el proceso de desarrollo. Implementando a la plataforma web herramientas como GULP, PUG, SCSS y JavaScript, incluyendo la creación de un logotipo distintivo que fortaleció la identidad de la marca."
+    },
+
+    "skills": {
+        "title": "Aptitudes",
+        "subtitle1": "Lenguajes de Marcado y Estilos:",
+        "subtitle2": "Lenguajes de Programación:",
+        "subtitle3": "Frameworks y Herramientas de Desarrollo Web:",
+        "subtitle4": "Bases de Datos:",
+        "subtitle5": "Control de Versiones y Colaboración:",
+        "subtitle6": "Herramientas de Diseño:"
+    },
+
+    "projects": {
+        "title": "Proyectos",
+        "frontend": {
+            "kreiselEvents": "Desarrollo de un sitio web para una vibrante empresa de eventos en Barcelona. Utilizando Gulp, Pug, Sass y JavaScript, se creó una plataforma dinámica que incluye un carrusel de imágenes, un formulario interactivo y un diseño responsive, ofreciendo una experiencia visual atractiva y funcional.",
+            "garcinstal": "Desarrollo de un sitio web para una empresa de multiservicios en viviendas en Londres. Implementado con Gulp, Pug, Sass y JavaScript, el sitio cuenta con funcionalidades como cambio de idioma y pantalla completa. Un prototipo en Adobe XD fue creado para asegurar una experiencia visual coherente y profesional.",
+            "giriga": "Desarrollo de un sitio web para un restaurante de comida fusión en Barcelona, utilizando Gulp, Pug, Sass y JavaScript. El sitio incluye una función de cambio de tema oscuro/claro, proporcionando una experiencia visual adaptable y moderna. A pesar de que el restaurante está actualmente cerrado, el diseño refleja su esencia innovadora y sofisticada.",
+            "riseHorizon": "Desarrollo de un sitio web para Rise Horizon, implementado con Gulp, Pug, Sass y JavaScript. El sitio incluye características como un carrusel de imágenes y la opción de cambiar el tema, ofreciendo una experiencia de usuario innovadora y altamente interactiva.",
+            "portfolioDesigner": "Desarrollo de un portafolio en línea para un diseñador, utilizando Gulp, Pug, Sass y JavaScript. El sitio presenta trabajos destacados con efectos visuales avanzados y un diseño adaptativo, proporcionando una plataforma visualmente impresionante y funcional.",
+            "portfolioDeveloper": "Desarrollo de un portafolio en línea para un desarrollador, implementado con React JS. El sitio incluye una galería de proyectos y una interfaz interactiva, diseñada para resaltar habilidades y logros de manera atractiva y accesible."
+        },
+        "backend": {
+            "flaskFinance": "Desarrollo de una aplicación web para la gestión de un portafolio de acciones utilizando Flask y una base de datos SQLite. La aplicación permite a los usuarios registrarse, iniciar sesión, comprar y vender acciones, y visualizar el historial de transacciones y el estado actual de su portafolio.",
+            "birthdays": "Desarrollo de una aplicación web para almacenar y gestionar cumpleaños, implementada con Flask y una base de datos SQLite. La aplicación facilita a los usuarios la adición, visualización y eliminación de fechas de cumpleaños a través de una interfaz de formulario intuitiva.",
+            "ajaxRequest": "Desarrollo de una aplicación web para la gestión de una lista de superhéroes, utilizando una base de datos MySQL y PHP. La base de datos puede ser creada e importada a través de phpMyAdmin, permitiendo una gestión eficiente de los datos de superhéroes.",
+            "trivia": "Desarrollo de una aplicación de trivia simple utilizando solo HTML, CSS y JavaScript. La aplicación permite a los usuarios responder preguntas y visualizar su puntuación, ofreciendo una experiencia de trivia interactiva y entretenida."
+        }
+    },
+    
+    "contact": {
+        "developer": "Programación",
+        "designer": "Diseño",
+        "name": "Nombre",
+        "mail": "Correo",
+        "subject": "Asunto",
+        "message": "Mensaje",
+        "button": "Enviar"
+    }
+}
