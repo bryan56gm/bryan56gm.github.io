@@ -1,11 +1,19 @@
 {
+    "title": {
+        "home": "Portfolio",
+        "about": "About",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+
+
     "hero": {
         "subtitle": "Web Developer",
         "text": "Front-end developer with extensive experience in creating engaging and functional user interfaces using technologies such as PUG, SCSS, JavaScript, and GULP. Proficient in React, enabling the development of dynamic and efficient applications that achieve a seamless integration of design and functionality. Creating intuitive and visually appealing solutions that enhance the user experience."
     },
 
     "description": {
-        "title": "Who Am I?",
+        "title": "About me",
         "text1": "Web developer specializing in front-end, with a background in 'Computer Science for Web Programming'. My self-taught skills have enabled me to work on various projects, focusing on best programming practices, SEO, and scalable structures.",
         "text2": "I stand out for my contribution to the 'Garcinstal Multiservices' project, where I designed an interactive prototype in Adobe XD, leading to the development of a responsive website with advanced transitions and visual effects."
     },
