@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext, useEffect } from 'react';
 // Components
 import Address from '../components/address/Address';
 import Form from '../components/form/Form';
@@ -7,6 +7,8 @@ import styled from 'styled-components';
 import { Section } from '../styles/base/Section.styled'
 // Responsive
 import device from '../styles/responsive/breakpoints';
+// Language Context
+import { LanguageContext } from '../contexts/LanguageContext'; 
 
 const SectionContact = styled(Section)`
   max-width: 1000px; 
@@ -25,6 +27,12 @@ const SectionContact = styled(Section)`
 `}
 `
 const Contact = () => {
+  const { languageData } = useContext(LanguageContext);
+
+  useEffect(() => {
+    document.title = languageData.title?.contact;
+  }, [languageData]);
+
   return(
     <main>
       <SectionContact>

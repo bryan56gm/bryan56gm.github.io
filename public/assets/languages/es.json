@@ -1,4 +1,12 @@
 {
+    "title": {
+        "home": "Portafolio",
+        "about": "Quién soy",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+    },
+
+
     "hero": {
         "subtitle": "Desarrollador Web",
         "text": "Desarrollador front-end, con amplia experiencia en la creación de interfaces de usuario atractivas y funcionales, empleando tecnologías como PUG, SCSS, JavaScript y GULP. Experiencia con React que me permite desarrollar aplicaciones dinámicas y eficientes, logrando una integración armoniosa entre diseño y funcionalidad. Creando soluciones intuitivas y visualmente agradables que mejoran la experiencia del usuario."

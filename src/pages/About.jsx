@@ -22,11 +22,13 @@ const About = () => {
   const dynamicContentRef = useRef(null);
 
   useEffect(() => {
+    document.title = languageData.title?.about;
+
     if (selectedComponent) {
       dynamicContentRef.current.scrollIntoView({ behavior: 'smooth' });
     }
 
-  }, [selectedComponent]);
+  }, [languageData, selectedComponent]);
 
   const handleButtonClick = (component) => {
     setSelectedComponent(prevComponent => prevComponent === component ? null : component);

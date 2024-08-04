@@ -27,17 +27,6 @@ const GlobalStyles = createGlobalStyle`
         color: var(--text-color);
         color: white;
         min-height: 100vh;
-
-        &:after {
-            content: "";
-            position: absolute;
-            inset: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url("/assets/noisy.webp");
-            pointer-events: none;
-            user-select: none;
-        }
     }
 
     main{
