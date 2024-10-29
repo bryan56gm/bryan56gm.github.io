@@ -1,7 +1,10 @@
 import { useState, useEffect, useRef} from 'react';
 
 const useChangeTheme = () => {
-    const [theme, setTheme] = useState(localStorage.getItem('selected-theme') || 'light');
+    const [theme, setTheme] = useState(() => {
+        return localStorage.getItem('selected-theme') || 'light'
+    });
+    
     const bodyRef = useRef(document.body);
 
     const changeTheme = () => {

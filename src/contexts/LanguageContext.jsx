@@ -5,8 +5,9 @@ const LanguageContext = createContext();
 const LanguageProvider = ({ children }) => {
     const [languageData, setLanguageData] = useState({});
     const [isLoading, setIsLoading] = useState(false);
-    const [selectedLanguage, setSelectedLanguage] = useState(
-        localStorage.getItem('selected-language') || (navigator.language.split('-')[0] === 'es' ? 'es' : 'en')
+    const [selectedLanguage, setSelectedLanguage] = useState( () => {
+            return localStorage.getItem('selected-language') || navigator.language.split('-')[0] === 'es' ? 'es' : 'en';
+        }
     );
 
     const changeLanguage = useCallback(async (language) => {

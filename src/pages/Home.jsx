@@ -1,15 +1,14 @@
-import React, { useContext, useEffect } from 'react';
+import React, { useContext } from 'react';
 // Components
 import Hero from '../components/hero/Hero';
 // Language Context
 import { LanguageContext } from '../contexts/LanguageContext'; 
+// Hooks
+import useDocumentTitle from '../hooks/useDocumentTitle';
 
 const Home = () => {
   const { languageData } = useContext(LanguageContext);
-
-  useEffect(() => {
-    document.title = languageData.title?.home;
-  }, [languageData]);
+  useDocumentTitle(languageData.title?.home);
 
   return(
     <main>

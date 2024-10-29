@@ -1,44 +1,24 @@
-import React, { useContext, useEffect } from 'react';
+import React, { useContext } from 'react';
 // Components
 import Address from '../components/address/Address';
 import Form from '../components/form/Form';
 // Styled Components
-import styled from 'styled-components';
-import { Section } from '../styles/base/Section.styled'
-// Responsive
-import device from '../styles/responsive/breakpoints';
+import { Touch } from '../components/touch/Touch.styled';
 // Language Context
 import { LanguageContext } from '../contexts/LanguageContext'; 
+// Hooks
+import useDocumentTitle from '../hooks/useDocumentTitle';
 
-const SectionContact = styled(Section)`
-  max-width: 1000px; 
-  margin-inline: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 4rem 3rem;
-  padding-bottom: 0;
-  margin-bottom: 30px;
-  min-height: calc(100vh - var(--header-height));
-
-  ${device.laptop`
-    flex-direction: row-reverse;
-    margin-bottom: 0;
-    width: 90%;
-`}
-`
 const Contact = () => {
   const { languageData } = useContext(LanguageContext);
-
-  useEffect(() => {
-    document.title = languageData.title?.contact;
-  }, [languageData]);
+  useDocumentTitle(languageData.title?.contact);
 
   return(
     <main>
-      <SectionContact>
+      <Touch>
         <Address />
         <Form />
-      </SectionContact>
+      </Touch>
     </main>
   )
 }
